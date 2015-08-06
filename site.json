@@ -1,0 +1,14 @@
+---
+---
+{
+  "projects": [
+    {% for post in site.posts %}
+    {
+      "id": {{forloop.index}},
+      "title": {{post.title | jsonify}},
+      "content": {{post.content | jsonify}},
+      "date": {{post.date | jsonify}}
+    }{% if forloop.rindex0 > 0 %},{% endif %}
+    {% endfor %}
+  ]
+}

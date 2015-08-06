@@ -2,7 +2,7 @@
 layout: post
 title:  "Geographic Distribution of Messaging Apps"
 date:   2015-07-20 18:28:27
-categories: geography messaging apps mapping
+categories: geography
 ---
 
 Whats App. Wechat. Line. Kik. Yik-yak. Snapchat.
@@ -11,9 +11,9 @@ The list of chat and messaging apps is long and getting longer every day. Intere
 
 In China, most communication is done by WeChat. 90% of the text messages I recieve now are either automated messages, ads, or Nigerian Prince scams. Its used for everything from talking to friends and family, to planning meetings and coordinating projects at work, to paying for lunch. More on that _here_.
 
-However, in Europe and the Middle East, WeChat doesn't exist. There its all about What's App. 
+However, in Europe and the Middle East, WeChat doesn\'t exist. There its all about What\'s App. 
 
-But then you head over to the US, where What's App's parent company, Facebook, is headquartered, and no one really seems to be using it at all. What's App penetration among US smartphone users, in fact, is a mere 8%. Its not that Americans don't like messaging apps though. The US is the biggest market by far for SnapChat, although that does skew towards a younger demographic. 
+But then you head over to the US, where What\'s App\'s parent company, Facebook, is headquartered, and no one really seems to be using it at all. What\'s App penetration among US smartphone users, in fact, is a mere 8%. Its not that Americans don\'t like messaging apps though. The US is the biggest market by far for SnapChat, although that does skew towards a younger demographic. 
 
 The list goes on though, with both WeChat and Line, a Japanese chat app, popular in Southeast Asia, a massive growth region with few local players and twice the population of North America. 
 
